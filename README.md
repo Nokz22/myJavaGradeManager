@@ -21,7 +21,7 @@ A console-based Student Grade Manager built in Java, following the **MVC (Model-
 ## 🏗️ Architecture
 
 This project follows a **Layered MVC Architecture**:
-
+```
 src/
 ├── model/
 │   ├── Student.java           # Abstract base class
@@ -33,7 +33,7 @@ src/
 ├── ui/
 │   └── StudentUI.java         # User interface
 └── Main.java                  # Entry point
-
+```
 ---
 
 ## 🧬 Inheritance Structure
