@@ -37,13 +37,13 @@ src/
 ---
 
 ## 🧬 Inheritance Structure
-
+```
 Student (abstract)
 ├── RegularStudent
 │     └── calculateGrade() → average of List<Double> grades
 └── ErasmusStudent
 └── calculateGrade() → returns single grade (pass if ≥ 10)
-
+```
 ---
 
 ## ⚙️ How to Run
